@@ -7,7 +7,7 @@
 /* Mobile-first: default (mobile) */
 h2 { font-size: clamp(14px, 7vw, 20px) !important; }
 h4 { font-size: clamp(12px, 3.5vw, 18px) !important; }
-p { font-size: clamp(11px, 3vw, 14px) !important; }
+p, li { font-size: clamp(11px, 3vw, 14px) !important; }
 .img-fluid { max-width: 100% !important; height: auto !important; }
 .card-body .bi { font-size: 1.5rem !important; }
 .card-body h6 { font-size: 9px !important; }
