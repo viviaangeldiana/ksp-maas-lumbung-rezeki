@@ -48,7 +48,7 @@ p, li { font-size: clamp(13px, 3.5vw, 16px) !important; }
             <div class="card border-danger h-100">
                 <div class="card-header bg-success text-white fw-bold">Visi</div>
                 <div class="card-body">
-                    <p class="visi-teks">Meningkatkan kesejahteraan Anggota pada khususnya dan masyarakat pada umumnya serta meningkatkan peran serta Koperasi dalam menyukseskan pemerintah dibidang perkoperasian.</p>
+                    <p style="font-size: 14px !important;">Meningkatkan kesejahteraan Anggota pada khususnya dan masyarakat pada umumnya serta meningkatkan peran serta Koperasi dalam menyukseskan pemerintah dibidang perkoperasian.</p>
                 </div>
             </div>
         </div>
