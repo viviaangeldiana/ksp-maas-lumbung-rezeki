@@ -102,7 +102,7 @@ h2                      { font-size: clamp(14px, 4vw, 20px) !important; }
                 <div class="card-body">
                     <i class="bi bi-cash-coin fs-1 text-danger"></i>
                     <h5 class="card-title mt-3">Pinjaman</h5>
-                    <p class="card-text">Pinjaman Mobil, Rumah, Motor, Serba Guna, dan Tanpa Agunan dengan proses mudah.</p>
+                    <p class="card-text">Pinjaman Mobil, Motor, Rumah, Serba Guna, dan Tanpa Agunan dengan proses mudah.</p>
                     <a href="/produk" class="btn btn-outline-success">Selengkapnya</a>
                 </div>
             </div>
