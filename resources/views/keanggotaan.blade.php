@@ -41,10 +41,10 @@ th, td { padding: 4px !important; }
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">Warga Negara Indonesia</li>
-                        <li class="list-group-item">Mempunyai kemampuan penuh untuk melakukan tindakan hukum.</li>
-                        <li class="list-group-item">Bertempat tinggal di wilayah Kota Batam dan sekitarnya.</li>
-                        <li class="list-group-item">Telah menyatakan kesanggupan tertulis untuk melunasi Simpanan Pokok sebesar Rp. 50.000,- (lima puluh ribu rupiah) dan Simpanan Wajib sebesar Rp.20.000,- (dua puluh ribu rupiah).</li>
-                        <li class="list-group-item">Telah menyetujui isi Anggaran Dasar, Anggaran Rumah Tangga dan ketentuan yang berlaku.</li>
+                        <li class="list-group-item">Mempunyai kemampuan penuh untuk melakukan tindakan hukum</li>
+                        <li class="list-group-item">Bertempat tinggal di wilayah Kota Batam dan sekitarnya</li>
+                        <li class="list-group-item">Telah menyatakan kesanggupan tertulis untuk melunasi Simpanan Pokok sebesar Rp. 50.000,- (lima puluh ribu rupiah) dan Simpanan Wajib sebesar Rp.20.000,- (dua puluh ribu rupiah)</li>
+                        <li class="list-group-item">Telah menyetujui isi Anggaran Dasar, Anggaran Rumah Tangga dan ketentuan yang berlaku</li>
                     </ul>
                 </div>
             </div>
@@ -56,10 +56,10 @@ th, td { padding: 4px !important; }
                 </div>
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Anggota bersangkutan meninggal dunia.</li>
-                        <li class="list-group-item">Koperasi membubarkan diri atau dibubarkan oleh Pemerintah.</li>
-                        <li class="list-group-item">Diberhentikan oleh Pengurus karena tidak memenuhi lagi persyaratan keanggotaan dan atau melanggar ketentuan Anggaran Dasar atau Anggaran Tangga Koperasi dan ketentuan lain yang Rumah berlaku dalam Koperasi.</li>
-                        <li class="list-group-item">Anggota tidak menyetor Simpanan Wajib selama 3 bulan berturut-turut.</li>
+                        <li class="list-group-item">Anggota bersangkutan meninggal dunia</li>
+                        <li class="list-group-item">Koperasi membubarkan diri atau dibubarkan oleh Pemerintah</li>
+                        <li class="list-group-item">Diberhentikan oleh Pengurus karena tidak memenuhi lagi persyaratan keanggotaan dan atau melanggar ketentuan Anggaran Dasar atau Anggaran Tangga Koperasi dan ketentuan lain yang Rumah berlaku dalam Koperasi</li>
+                        <li class="list-group-item">Anggota tidak menyetor Simpanan Wajib selama 3 bulan berturut-turut</li>
                     </ul>
                 </div>
             </div>
@@ -74,7 +74,7 @@ th, td { padding: 4px !important; }
                 <div class="card-body">
                     <div class="bg-danger text-white rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width:50px;height:50px;">1</div>
                     <p class="fw-bold mb-0">SHU</p>
-                    <small class="text-muted">Memperoleh keuntungan dari pendapatan Hasil Sisa Usaha</small>
+                    <small class="text-muted">Memperoleh Sisa Hasil Usaha</small>
                 </div>
             </div>
         </div>
