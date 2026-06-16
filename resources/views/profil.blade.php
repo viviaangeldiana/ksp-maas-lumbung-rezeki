@@ -12,8 +12,8 @@ p, li { font-size: clamp(13px, 3.5vw, 16px) !important; }
 .card-body .bi { font-size: 1.5rem !important; }
 .card-body h6 { font-size: 9px !important; }
 .card-body p { font-size: 8px !important; }
-.visi-teks { font-size: clamp(13px, 3.5vw, 16px) !important; }
 .card-body { padding: 8px !important; }
+.card-body .visi-teks { font-size: clamp(13px, 3.5vw, 16px) !important; }
 
 /* Desktop overrides (≥768px) */
 @media (min-width: 768px) {
@@ -24,6 +24,7 @@ p, li { font-size: clamp(13px, 3.5vw, 16px) !important; }
     .card-body h6 { font-size: 1rem !important; }
     .card-body p { font-size: 1rem !important; }
     .card-body { padding: 1rem !important; }
+    .card-body .visi-teks { font-size: 1rem !important;}
 }
 </style>
 
@@ -48,7 +49,7 @@ p, li { font-size: clamp(13px, 3.5vw, 16px) !important; }
             <div class="card border-danger h-100">
                 <div class="card-header bg-success text-white fw-bold">Visi</div>
                 <div class="card-body">
-                    <p style="font-size: 14px !important;">Meningkatkan kesejahteraan Anggota pada khususnya dan masyarakat pada umumnya serta meningkatkan peran serta Koperasi dalam menyukseskan pemerintah dibidang perkoperasian.</p>
+                    <p class="visi-teks">Meningkatkan kesejahteraan Anggota pada khususnya dan masyarakat pada umumnya serta meningkatkan peran serta Koperasi dalam menyukseskan pemerintah dibidang perkoperasian.</p>
                 </div>
             </div>
         </div>
