@@ -26,6 +26,8 @@
     .btn-danger { background-color: #e30613 !important; border-color: #e30613 !important; }
     .bg-danger { background-color: #e30613 !important; }
     .text-danger { color: #e30613 !important; }
+    body { display: flex; flex-direction: column; min-height: 100vh; }
+    main { flex: 1;}
 
     /* Desktop overrides (≥768px) */
     @media (min-width: 768px) {
@@ -126,7 +128,7 @@
     @yield('content')
 </main>
 
-<footer class="py-4 mt-5">
+<footer class="py-4">
     <div class="container text-center">
         <p class="mb-0">Koperasi Simpan Pinjam Maas Lumbung Rezeki. &copy; 2019 All rights reserved.</p>
         <p class="mb-0">Ruko Palm Spring Blok D2 No. 8, Batam Centre</p>
